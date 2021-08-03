@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task List</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_setting">Setting</string>
+    <string name="input_hint">Enter your note</string>
+>
+</resources>
